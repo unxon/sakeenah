@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generatedFrom": "quran-json/text/uthmani/quran.json",
+  "categories": [
+    {
+      "id": "quran",
+      "title": "القرآن الكريم",
+      "type": "sacred_text",
+      "sourceFile": "quran-uthmani.json"
+    }
+  ],
+  "works": [
+    {
+      "id": "quran:uthmani",
+      "categoryId": "quran",
+      "title": "القرآن الكريم",
+      "subtitle": "رواية حفص · الرسم العثماني",
+      "sourceFile": "quran-uthmani.json",
+      "chaptersFile": "chapters.json",
+      "verseCount": 6236,
+      "chapterCount": 114,
+      "license": "CC BY 3.0 / Tanzil notice included",
+      "sourceUrl": "https://quran-json.risanb.com/"
+    }
+  ]
+}
