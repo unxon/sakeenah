@@ -1,3 +1,2 @@
-# sakeenah
+# sakeenah quran
 
-Created with ZiptoGit.
